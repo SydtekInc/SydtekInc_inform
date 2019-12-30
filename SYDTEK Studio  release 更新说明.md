@@ -22,8 +22,27 @@ SYDTEK Studio有更新
 ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V3.5.5.jpg)
 <br/><br/><br/>
 
-2019-6-15  
+2019-6-25  
 SYDTEK Studio工具有更新   
 这里最新版本是《SYDTEK Studio  release V3.7.8 20190625.7z》，更新了在烧录4K完成后自动重新初始化flash引索，可以直接在service读到服务，之前的版本要重新复位一次！并且支持串口发送的功能！  
 ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V3.7.8.jpg)
+<br/><br/><br/>
+
+2019-7-2  
+SYDTEK Studio增加对SYD8810的支持    
+最新的SYDTEK Studio增加对SYD8810的支持，操作方式和SYD8821以及SYD8811类似：  
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V3.8.9.jpg)
+<br/><br/><br/>
+
+2019-7-12  
+《SYDTEK_Studio》中增加更新4k的时候自动随机生成MAC的功能     
+在tool中增加两个选项，勾选则使用相应功能：    
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V4.0.2.bmp)
+<br/><br/><br/>
+
+2019-10-10  
+ 最新的《SYDTEK Studio》点击下图的“Update extern flash data”的时候会把数据写到外部flash,然后会读回校验，之前的版本不会！  
+ ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V4.7.7.png) 
+    这项功能只有在V4.7.7版本以上的studio上使用： 
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V4.7.7_1.jpg) 
 <br/><br/><br/>
