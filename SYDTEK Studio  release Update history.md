@@ -1,5 +1,5 @@
 # SYDTEK Studio  release 更新说明  
-## 本程序版权属于成都盛芯微科技SYDTEK，更多内容请看官网：<a href="http://www.sydtek.com/" title="Title">http://www.sydtek.com/</a>
+## 本文件版权属于成都盛芯微科技SYDTEK，更多内容请看官网：<a href="http://www.sydtek.com/" title="Title">http://www.sydtek.com/</a>
 
 2019-6-4  
 《SYDTEK_Studio》更新到版本V3.4.7   
