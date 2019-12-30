@@ -7,5 +7,5 @@
 
    北京盛源达科技有限公司致力于成为物联网无线通信芯片的领导者。  
    
-《SYDTEK Studio  release 更新说明》：用于记录SYDTEK Studio  release 更新，请打开连接   
+《SYDTEK Studio  release 更新说明》：用于记录SYDTEK Studio  release 更新，请打开连接<a href="https://github.com/SydtekInc/SydtekInc_inform/blob/master/SYDTEK%20Studio%20%20release%20更新说明.md" title="Title">https://github.com/SydtekInc/SydtekInc_inform/blob/master/SYDTEK%20Studio%20%20release%20更新说明.md/</a>   
 <br/><br/><br/>

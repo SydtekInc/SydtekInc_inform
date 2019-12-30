@@ -4,5 +4,5 @@
 2019-6-4  
 《SYDTEK_Studio》更新到版本V3.4.7   
 《SYDTEK_Studio》更新到版本V3.4.7,提升了读写速度，请和官方咨询以得到最新的版本！  
-![](https://github.com/SydtekInc/SydtekInc_inform/blob/master/image/更新到版本V3.4.bmp)
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V3.4.bmp)
 <br/><br/><br/>
