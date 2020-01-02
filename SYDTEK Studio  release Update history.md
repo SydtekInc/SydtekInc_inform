@@ -70,3 +70,11 @@ SYDTEK Studio有更新
 https://gitee.com/SydtekInc/SYD8811SDK/tree/master/tool    
 ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.0.1.bmp) 
 <br/><br/><br/>
+
+20200102 140752  
+SYDTEK Studio有更新      
+版本更新到SYDTEK Studio  release V5.0.3 20200102 120010，改善Studio的连接性和电脑的电容性  
+请从如下目录下载：  
+https://gitee.com/SydtekInc/SYD8811SDK/tree/master/tool    
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.0.3.png) 
+<br/><br/><br/>
