@@ -78,3 +78,15 @@ SYDTEK Studio有更新
 https://gitee.com/SydtekInc/SYD8811SDK/tree/master/tool    
 ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.0.3.png) 
 <br/><br/><br/>
+
+20200103 183200    
+SYDTEK Studio有更新      
+版本更新到SYDTEK Studio  release V5.1.7 20200103 182831，更加深入给用户有选择能力的修复兼容性的问题  
+这里增加一个按钮，默认是D40(复位延时40ms),可以根据自己的电脑选择D500,D1000选择： 
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.1.6.png)  
+连接上后会显示复位按钮，DXXXX按钮将会隐藏掉： 
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.1.6——1.png)   
+请从如下目录下载：  
+https://gitee.com/SydtekInc/SYD8811SDK/tree/master/tool    
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.0.3.png) 
+<br/><br/><br/>
