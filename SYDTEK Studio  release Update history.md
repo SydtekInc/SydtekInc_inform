@@ -87,6 +87,5 @@ SYDTEK Studio有更新
 连接上后会显示复位按钮，DXXXX按钮将会隐藏掉： 
 ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.1.6——1.png)   
 请从如下目录下载：  
-https://gitee.com/SydtekInc/SYD8811SDK/tree/master/tool    
-![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.0.3.png) 
+https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20release
 <br/><br/><br/>
