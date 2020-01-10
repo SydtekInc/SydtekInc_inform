@@ -89,3 +89,13 @@ SYDTEK Studio有更新
 请从如下目录下载：  
 https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20release
 <br/><br/><br/>
+
+20200103 183200    
+SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.0 20200110 145356      
+进一步解决各种电脑兼容性的问题  
+SYDTEK Studio  factory更新版本到SYDTEK Studio  factory V5.2.0 20200110 145412      
+这里解决工厂模式工具没能够选择DXX的问题，同时改善了电脑兼容性  
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.2.0.png)   
+请从如下目录下载：  
+https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20release
+<br/><br/><br/>
