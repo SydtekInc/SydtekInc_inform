@@ -99,3 +99,17 @@ SYDTEK Studio  factory更新版本到SYDTEK Studio  factory V5.2.0 20200110 1454
 请从如下目录下载：  
 https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20release
 <br/><br/><br/>
+
+20200310 174121   
+SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.1 20200310 172304      
+1.解决SPI自定义管脚最后一个字符必须为空格的问题
+2.在UART的log界面增加搜索功能，输入Ctrl+F快捷键进入
+3.在UART的log的Analyze界面解决数据过多界面被拉宽的bug
+![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/更新到版本V5.2.1.png)   
+https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20release
+<br/><br/><br/>
+
+20200313 193023   
+SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.4 20200313 192649.7z     
+解决SYD8821 PPM写下去读回来不对的问题！  
+<br/><br/><br/>
