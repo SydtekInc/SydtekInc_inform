@@ -113,3 +113,8 @@ https://gitee.com/SydtekInc/SydtekInc_inform/tree/master/SYDTEK%20Studio%20%20re
 SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.4 20200313 192649.7z     
 解决SYD8821 PPM写下去读回来不对的问题！  
 <br/><br/><br/>
+
+20200320 153604   
+SYDTEK Studio release更新版本到V5.2.5 20200320 153430     
+增加FLASHDATA任意4086地址对齐偏移写的功能  
+<br/><br/><br/>
