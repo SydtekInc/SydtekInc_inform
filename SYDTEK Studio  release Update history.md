@@ -118,3 +118,8 @@ SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.4 20200313 19264
 SYDTEK Studio release更新版本到V5.2.5 20200320 153430     
 增加FLASHDATA任意4086地址对齐偏移写的功能  
 <br/><br/><br/>
+
+20200325 143418   
+SYDTEK Studio release更新版本到V5.2.6 20200325 143301     
+在Special界面增加“Read Now Config”按钮，能够读回来当前的配置  
+<br/><br/><br/>
