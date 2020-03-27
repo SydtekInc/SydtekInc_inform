@@ -123,3 +123,9 @@ SYDTEK Studio release更新版本到V5.2.5 20200320 153430
 SYDTEK Studio release更新版本到V5.2.6 20200325 143301     
 在Special界面增加“Read Now Config”按钮，能够读回来当前的配置  
 <br/><br/><br/>
+
+20200327 191854   
+SYDTEK Studio release更新版本到V5.2.7 20200327 191651     
+SYD8811/SYD8810的最小代码空间可以设置为28KB。    
+SYD8811/SYD8810支持烧录大于代码区的代码，比如代码区设置为28KB，这里联合CODEA和CODEB就有28*2=56KB的代码，这里支持烧录56KB以内的代码！  
+<br/><br/><br/>
