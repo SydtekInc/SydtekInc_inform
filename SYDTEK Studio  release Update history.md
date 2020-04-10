@@ -129,3 +129,8 @@ SYDTEK Studio release更新版本到V5.2.7 20200327 191651
 SYD8811/SYD8810的最小代码空间可以设置为28KB。    
 SYD8811/SYD8810支持烧录大于代码区的代码，比如代码区设置为28KB，这里联合CODEA和CODEB就有28*2=56KB的代码，这里支持烧录56KB以内的代码！  
 <br/><br/><br/>
+
+20200410 103212   
+SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.8 20200410 102913     
+SYD8821的最小代码空间可以设置为32KB。    
+<br/><br/><br/>
