@@ -133,4 +133,5 @@ SYD8811/SYD8810支持烧录大于代码区的代码，比如代码区设置为28
 20200410 103212   
 SYDTEK Studio release更新版本到SYDTEK Studio  release V5.2.8 20200410 102913     
 SYD8821的最小代码空间可以设置为32KB。    
+增加版本到SYDTEK Studio  release V5.2.9 20200410 104617.7z，V5.2.8有点问题，改到批量烧录去了   
 <br/><br/><br/>
