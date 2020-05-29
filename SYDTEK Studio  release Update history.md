@@ -140,3 +140,8 @@ SYD8821的最小代码空间可以设置为32KB。
 SYDTEK Studio release更新版本到SYDTEK Studio  release V5.3.2 20200507 193217     
 在外部flash读ID的时候同时设置IO，不需要再次去切换管脚了！     
 <br/><br/><br/>
+
+20200529 143849   
+SYDTEK Studio release更新版本到SYDTEK Studio  release v5.3.6 20200529 142529     
+解决某些电脑会对SYDTEK Studio release有兼容性问题.这里表现为打开软件后就卡死,然后提示运行不成功!     
+<br/><br/><br/>
