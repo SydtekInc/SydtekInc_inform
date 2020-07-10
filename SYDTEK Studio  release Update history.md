@@ -145,3 +145,14 @@ SYDTEK Studio release更新版本到SYDTEK Studio  release V5.3.2 20200507 19321
 SYDTEK Studio release更新版本到SYDTEK Studio  release v5.3.6 20200529 142529     
 解决某些电脑会对SYDTEK Studio release有兼容性问题.这里表现为打开软件后就卡死,然后提示运行不成功!     
 <br/><br/><br/>
+
+20200529 143849   
+SYDTEK Studio release更新版本到SYDTEK Studio  release V5.4.0 20200622 172534.7z     
+解决代码大于CODEA区的容量后报错的问题     
+<br/><br/><br/>
+
+20200710 094441   
+在版本SYDTEK Studio  release V5.4.0 20200622 172534.7z中增加最新的8810和8811的CU固件,分别如下:     
+SYD8810_download_Integration20200709 151602.bin     
+SYD8811_download_Integration20200708 151806.bin    
+<br/><br/><br/>
