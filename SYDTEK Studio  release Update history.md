@@ -156,3 +156,7 @@ SYDTEK Studio release更新版本到SYDTEK Studio  release V5.4.0 20200622 17253
 SYD8810_download_Integration20200709 151602.bin     
 SYD8811_download_Integration20200708 151806.bin    
 <br/><br/><br/>
+
+20200916 145123 
+	从此版本起,修改记录放到GIT的commit信息中,不再更新当前文档!  
+<br/><br/><br/>

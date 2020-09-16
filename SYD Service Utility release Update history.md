@@ -19,3 +19,8 @@
  更多的内容请看文章《SYD Service Utility GATT tool对_gatt_database_report_handle不补齐0的解决办法.pdf》  
  ![image](https://github.com/SydtekInc/SydtekInc_inform/raw/master/image/ServiceUtilityV2.2.png)
 <br/><br/><br/>
+
+
+20200916 145123 
+	从此版本起,修改记录放到GIT的commit信息中,不再更新当前文档!  
+<br/><br/><br/>

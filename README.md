@@ -9,3 +9,7 @@
    
 《SYDTEK Studio  release 更新说明》：用于记录SYDTEK Studio  release 更新，请打开连接<a href="https://gitee.com/SydtekInc/SydtekInc_inform/blob/master/SYDTEK%20Studio%20%20release%20Update%20history.md" title="Title">https://gitee.com/SydtekInc/SydtekInc_inform/blob/master/SYDTEK%20Studio%20%20release%20Update%20history.md/</a>   
 <br/><br/><br/>
+
+20200916 145123 
+	从此版本起,修改记录放到GIT的commit信息中,不再更新当前文档!  
+<br/><br/><br/>
